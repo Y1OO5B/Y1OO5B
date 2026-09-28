@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cho YoonBin (조윤빈)</h1>
+  <h1>Yoon-Bin Cho</h1>
   <p><b>Data Analyst & Platform Engineer</b></p>
   <a href="https://pie-havarti-ecc.notion.site/yoon-bin-cho-cv"><img src="https://img.shields.io/badge/Notion-Portfolio-black?logo=notion" alt="Notion"></a>
   <a href="mailto:ybch1oo5@gmail.com"><img src="https://img.shields.io/badge/Email-ybch1oo5@gmail.com-blue?logo=gmail" alt="Email"></a>
@@ -78,3 +78,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Y1OO5B&show_icons=true&theme=transparent" alt="Y1OO5B's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y1OO5B&layout=compact&theme=transparent" alt="Top Languages" height="150" />
 </div>
+
