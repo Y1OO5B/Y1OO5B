@@ -13,7 +13,7 @@
 인천대학교 산업경영공학(전공) 및 도시공학(부전공)을 2027년 2월 졸업할 예정입니다.
 
 ### 💡 My Approach to AI Pair Development
-> 최근 수행한 **돈워리(Donworry)** 와 **IP-BOSS** 시스템 구현은 AI 페어 개발을 통해 진행했습니다.
+> 최근 수행한 **Co끼리** 와 **IP-BOSS** 시스템 구현은 AI 페어 개발을 통해 진행했습니다.
 저는 요구사항을 실행 가능한 지시로 분해하고 산출물의 목표를 설계하는 역할을 맡았습니다.
 > - **위험 검증:** 인프라 배포 시 제가 작성한 테스트가 정상 작동하는지 확인하기 위해 22개의 변형 코드(mutated variants)를 심었고, 22개 모두 잡아낸 후에야 병합을 승인했습니다.
 > - **결함 규명:** 셸 스크립트의 `ERR` 트랩이 `exit`이나 실패한 `X || die`를 잡지 못해 롤백이 작동하지 않던 운영 환경의 맹점을 코드로 규명하고, 13개의 실패 경로를 컨테이너에서 직접 재현하여 수정했습니다.
@@ -23,7 +23,7 @@
 
 ### 🏆 External Credentials
 - **학술 논문 (SSCI):** Transportation Research Part A (2026), **제2저자**. *"Impacts of new public transportation stops on bike-sharing demand: A counterfactual analysis using SeoulBike data."*
-- **경진대회:** 과학기술정보통신부 주관 2026 AI Rookie 경진대회 본선 진출 (돈워리 프로젝트).
+- **경진대회:** 과학기술정보통신부 주관 2026 AI Rookie 경진대회 본선 진출 (/SeD-ShallweData/2nd_Side2026_Project).
 - **연구 경험:** INU Data Science for Intelligent Systems Lab 학부연구생 (2023.05–2025.06).
 - **실무 경험:** 인천항만공사 미래내일일경험 프로젝트형 인턴 (2026.06–08).
 - **교육 경험:** HYUNDAI AI Insight Campus AI Service Programming (2023.05–2025.06).
@@ -32,7 +32,7 @@
 
 ### 🚀 Flagship Projects
 
-#### 1. 돈워리 (Donworry) 플랫폼 — 운영 배포 자동화 및 데이터 파이프라인
+#### 1. Co끼리 플랫폼 — 운영 배포 자동화 및 데이터 파이프라인
 **10인 팀 프로젝트 (운영 배포 자동화 및 모델링 담당)** | `Bash` `Docker` `GitHub Actions` `GCP` `PostgreSQL` `XGBoost`
 - **Scale:** 산업재해 사업장×주 259,331,227행 산출, 549,558개 중 518,806개 사업장 매칭 연동 (94.4%).
 - **CI/CD 파이프라인 가동:** 2개 워크플로, 4개 잡, 28단계 검증을 PR 및 main push 경로 필터로 제어. PR 병합 후 서버 반영까지 10분 이내, 배포 실행 시간 85초. 15개 필드의 JSONL 운영 원장 기록.
