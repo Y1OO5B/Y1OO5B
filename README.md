@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Data Analyst Platform Engineer</h2>
+  <h2>Data Analyst | Platform Engineer</h2>
   <p>
   <a href="https://pie-havarti-ecc.notion.site/yoon-bin-cho-cv"><img src="https://img.shields.io/badge/Notion-Portfolio-black?logo=notion" alt="Notion"></a>
   <a href="mailto:ybch1oo5@gmail.com"><img src="https://img.shields.io/badge/Email-ybch1oo5@gmail.com-blue?logo=gmail" alt="Email"></a>
